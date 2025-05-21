@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-collections4-4.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/New folder/commons-collections4-4.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/New folder/commons-compress-1.21.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/New folder/commons-io-2.13.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/New folder/poi-5.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/New folder/poi-ooxml-5.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/New folder/woodstox-core-6.2.8.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/New folder/xmlbeans-5.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
